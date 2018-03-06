@@ -1,0 +1,13 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Bastion Games",
+    "classifications": [ "Console" ],
+    "name": "Bastion Games: Tinker Server",
+    "identity": "BastionGames.Tinker.Server",
+    "shortName": "tinker",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "sourceName": "BastionGames.Tinker.Server.Template"
+}
